@@ -1,4 +1,4 @@
-## res-downloader
+## easy-downloader
 ### EASY下载器【[加入群聊](https://qm.qq.com/q/mfDMSpCxQ4)】
 🎯 基于 [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue.git)  
 📦 操作简单、可获取不同类型的资源
@@ -8,7 +8,7 @@
 👼 支持设置代理以获取特殊网络下的资源
 
 ## 软件下载
-🆕 [github下载](https://github.com/putyy/res-downloader/releases)  
+🆕 [github下载](https://github.com/Eric-art-coder/easy-downloader/releases)  
 🆕 [蓝奏云下载 密码:9vs5](https://wwjv.lanzoum.com/b04wgtfyb)
 
 ## 使用方法
@@ -37,18 +37,17 @@ Win7无法使用
 
 打开本软件后无法上网
 > 手动删除安装标识锁文件，之后再打开软件会进行检查证书是否正确安装
->> MAC: /Users/你的用户名称/.res-downloader@putyy/res-downloader-installed.lock
->> Win: C:\Users\Admin\.res-downloader@putyy/res-downloader-installed.lock
+>> MAC: /Users/你的用户名称/.easy-downloader@Eric-art-coder/easy-downloader-installed.lock
+>> Win: C:\Users\Admin\.easy-downloader@Eric-art-coder/easy-downloader-installed.lock
 
 其他问题  
-[github](https://github.com/putyy/res-downloader/issues)  、 [爱享论坛](https://s.gowas.cn/d/4089)  
+[github](https://github.com/Eric-art-coder/easy-downloader/issues)  、 [爱享论坛](https://s.gowas.cn/d/4089)  
 
 ## 二次开发
-> ps： 打包慢的问题可以参考 https://www.putyy.com/articles/87
 ```sh
-git clone https://github.com/putyy/res-downloader
+git clone https://github.com/Eric-art-coder/easy-downloader
 
-cd res-downloader
+cd easy-downloader
 
 yarn install
 
